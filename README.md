@@ -1,2 +1,4 @@
 # hello-world
-hi
+Hi
+I'm practicing.
+Thanks.
